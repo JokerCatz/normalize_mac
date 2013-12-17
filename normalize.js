@@ -1,0 +1,1 @@
+navigator.platform.match(/Win/)&&(document.documentElement.className+=" mswin");
